@@ -1,2 +1,3 @@
-<p align="center"># Character-Control<br>
-Character Control (fpp) using unity</p>
+# Character-Control
+<p>Character Control (fpp) using unity.
+</p>
